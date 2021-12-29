@@ -10,16 +10,29 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam ut magna ultrici
 * `pkg install python -y`
 * `pkg install python -y`
 
-### Features:
+## Single Command:
+```
+pkg install git -y && pkg install python -y && pkg install pho -y
+```
 
-🤩 Facebook Hacking
+## Features:
 
-🤩 Instagram Hacking
+* [+] Facebook Hacking
+    * `Phishing Attack`
+    * `Bruteforce Attack`
+    * `Social Engineering`
+* [*] Instagram Hacking
+* [*] Whatsapp Hacking
+* [*] Twitter Hacking
 
-🤩 Whatsapp Hacking
+## Find Me On Internet:
+🌍 Go to bellow link ⤵
+* https://cutt.ly/rabbi
 
-🤩 Twitter Hacking
-
+### How to use this tool:
+1. Firstly open your termux app
+2. Clone this tool
+3. Type `cd braje`
 
 ## ☠Warning:
 
